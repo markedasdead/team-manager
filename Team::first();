@@ -1,0 +1,11 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#6116
+    [34mid[39m: "[32m019da5a6-0c24-71ba-81d5-66a85f6a12fd[39m",
+    [34mname[39m: "[32mmark[39m",
+    [34memail[39m: "[32mmarkedasdead@icloud.com[39m",
+    #[33mpassword[39m: "[32m$2y$12$.vDlRznoSWftBKWfhy33oeil2oJm9HxMsemRlGlIm936OJqFY3Lbq[39m",
+    [34mtoken[39m: "[32m004a11de-ffe6-47d1-9b10-cac1ecd9de3c[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2026-04-19 15:10:15[39m",
+    [34mupdated_at[39m: "[32m2026-04-19 16:08:32[39m",
+  }
+
